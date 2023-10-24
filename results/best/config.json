@@ -7,7 +7,7 @@
     "train_device":"cuda",
     "train_seed":42,
     "train_batch_size":1536,
-    "train_epochs":120,
+    "train_epochs":20,
     "train_lr":0.0005705023,
     "train_clip_grad":20,
     "enc_hidden_dim":768,
